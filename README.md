@@ -10,3 +10,4 @@ APPLICATION WITH A SERVER AND MULTIPLE
 CLIENTS COMMUNICATING IN REAL TIME.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/3dfdd5f8-5756-44c8-bdf8-0d01e72028e1)
